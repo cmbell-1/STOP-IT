@@ -79,8 +79,8 @@ var id = 'random' // use one of these three options: 'participant', 'url', 'rand
 // Therefore, this browser will be excluded by default
 
 var fullscreen = true; // Fullscreen mode or not?
-var minWidth = 800; // minimum width of the experiment window
-var minHeight = 600; // minimum height of the experiment window
+var minWidth = 100%; // minimum width of the experiment window
+var minHeight = 100%; // minimum height of the experiment window
 
 
 // ----- CUSTOMISE END-OF-EXPERIMENT REDIRECTION -----
