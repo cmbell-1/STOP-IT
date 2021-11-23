@@ -2,11 +2,11 @@
 var page1 = [
   '<p> The objective of this task is to react to the arrows that appear on the screen as quickly as possible. </p> '+'<br>' +
   '<p >When the task begins, place your left index finger on the left arrow on your keyboard, and your right index finger on the right arrow. </p>'+ '<br>' +
-  '<p> If the arrow that apears on your screen points left, press the LEFT ARROW KEY on your keyboard. </p>'+
-  '<p> If the arrow that apears on your screen points right, press the RIGHT ARROW KEY on your keyboard. </p>'+
+  '<p> If the arrow that apears on your screen points LEFT, press the LEFT ARROW KEY on your keyboard. </p>'+
+  '<p> If the arrow that apears on your screen points RIGHT, press the RIGHT ARROW KEY on your keyboard. </p>'+
   '<p> If the arrow turns RED, do NOT press any keys on your keyboard. </p>'+
   '<p> Sometimes the arrow will turn red right away and other times it will take longer.  </p>'+
-  '<p> But, if you wait too long the task will time out and your response will be scored as incorrect.  </p>'
+  '<p> But, if you wait too long the task will time out and your response will be scored as incorrect.  </p>' + '<br>'
 ];
 
 // instructions page 2
@@ -15,7 +15,7 @@ page2 = [
   '<p> We will start with a short practice block in which you will receive immediate feedback informing you of correct and timely responses or incorrect responses. </p>' +
   '<p> In the test rounds, you will no longer receive immediate feedback.  </p>'+
   '<p> After the practice block, there will be 3 test blocks. </p>' +
-  '<p> At the end of each test block, there will be a 15 second break during which you will receive feedback about your average performance in the previous block. </p>'
+  '<p> At the end of each test block, there will be a 15 second break during which you will receive feedback about your average performance in the previous block. </p>' + '<br>'
 ];
 
 // informed consent text
