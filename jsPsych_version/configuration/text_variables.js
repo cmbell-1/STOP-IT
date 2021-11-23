@@ -1,21 +1,17 @@
 // instructions page 1
 var page1 = [
-  '<p>Your main task is to respond to white arrows (with a black border) that appear on the screen.</p> '+
-  '<p>Press the LEFT ARROW KEY with the right index finger when you see a LEFT ARROW and press the RIGHT ARROW KEY with the right ring finger when you see a RIGHT ARROW. </p>'+
-  '<p>Thus, left arrow = left key and right arrow = right key. </p>'+ '<br>' +
-  '<p>However, on some trials (stop-signal trials) the arrows will turn red after a variable delay. You have to stop your response when this happens. </p>'+
-  '<p>On approximately half of the stop-signal trials, the red stop signal will appear soon and you will notice that it will be easy to stop your response. </p>'+
-  '<p>On the other half of the trials, the red stop signals will appear late and it will become very difficult or even impossible to stop your response.</p>'
+  '<p> Your main task is to respond to the arrows that appear on the screen.</p> '+
+  '<p> The objective of this task is to react to the arrows that appear on the screen as quickly as possible. If the arrow points left, press the LEFT ARROW KEY on your keyboard. If the arrow points right, press the RIGHT ARROW KEY on your keyboard. </p>'+
+  '<p >When the task begins, place your left index finger on the left arrow on your keyboard, and your right index finger on the right arrow. </p>'+ '<br>' +
+  '<p> If the arrow turns RED, do NOT press any keys on your keyboard. Sometimes the arrow will turn red right away and other times it will take longer.  </p>'+
+  '<p> Nevertheless, if you wait too long the task will time out and your response will be scored as incorrect.  </p>'
 ];
 
 // instructions page 2
 // Do not forget to adjust the number of blocks
 page2 = [
-  '<p> Nevertheless, it is really important that you do not wait for the stop signal to occur and that you respond as quickly and as accurately as possible to the white arrows. </p>'+
-  '<p> After all, if you start waiting for the red stop signals, then the program will delay their presentation. This will result in long reaction times. </p>'+
-  '<p> We will start with a short practice block in which you will receive immediate feedback. You will no longer receive immediate feedback in the experimental phase. </p>'+
-  '<p> However, at the end of each experimental block, there will be a 15 second break. During this break, we will show you some information about your mean performance in the previous block.</p>' +
-  '<p> The experiment consists of 1 practice block and 4 experimental blocks</p>'
+  '<p> We will start with a short practice block in which you will receive immediate feedback informing you of correct and timely responses or incorrect responses. In the test rounds, you will no longer receive immediate feedback.  </p>'+
+  '<p> After the practice block, there will be 3 test blocks. At the end of each test block, there will be a 15 second break during which you will receive feedback about your average performance in the previous block. </p>'
 ];
 
 // informed consent text
